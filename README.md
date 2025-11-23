@@ -230,8 +230,21 @@ ValidationHelper.validateName(name);         // Non-empty, min 2 chars
 DEMO:
 
 
+
+**WEB**
+
+
+
 https://github.com/user-attachments/assets/76a6baf6-0baa-4556-afff-376c71644694
 
+
+
+
+
+
+
+
+**MACOS**
 
 
 
