@@ -227,6 +227,14 @@ ValidationHelper.validateName(name);         // Non-empty, min 2 chars
 
 ---
 
-## License
+DEMO:
 
-This project is private and not licensed for public distribution.
+
+https://github.com/user-attachments/assets/76a6baf6-0baa-4556-afff-376c71644694
+
+
+
+
+https://github.com/user-attachments/assets/6fa61f27-3564-4561-aa43-67e09413f983
+
+
